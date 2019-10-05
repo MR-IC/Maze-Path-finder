@@ -22,6 +22,7 @@ public class exitpoint {
 				if (col == arr[0].length) {
 					col--;
 					System.out.println(row + " " + col);
+					
 					break;
 				}
 			} else if (dir == 1) {
