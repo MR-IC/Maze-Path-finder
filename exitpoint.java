@@ -35,6 +35,7 @@ public class exitpoint {
 				col--;
 				if (col == -1) {
 					col++;
+					
 					System.out.println(row + ", " + col);
 					break;
 				}
